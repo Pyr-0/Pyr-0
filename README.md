@@ -1,5 +1,11 @@
-### Hi there 👋
+### Take a peek at what I´m Cooking ;) 
 
+<div align="center"> 
+
+
+[![mrojas-e's 42 stats](https://badge42.vercel.app/api/v2/cl8zseson00060gl6iupkaftb/stats?cursusId=21&coalitionId=158)](https://github.com/JaeSeoKim/badge42)
+
+</div>
 <!--
 **Pyr-0/Pyr-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
