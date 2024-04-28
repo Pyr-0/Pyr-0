@@ -1,7 +1,7 @@
 <div align="center"> 
 
 ### *___Change is the only constant___*
-[![mrojas-e's 42 stats](https://badge42.vercel.app/api/v2/cl8zseson00060gl6iupkaftb/stats?cursusId=21&coalitionId=158)](https://github.com/JaeSeoKim/badge42)
+[![mrojas-e's 42 stats](https://badge.mediaplus.ma/darkblue/mrojas-e)](https://github.com/oakoudad/badge42)
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="milton-rojas-echeverri-45a12b256" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://de.linkedin.com/in/milton-rojas-echeverri-45a12b256?trk=profile-badge">Milton Rojas Echeverri</a></div>
               
